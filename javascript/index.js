@@ -3224,7 +3224,7 @@ let pixiePixie = new Queen("Pixie Pixie", 7, 7, 7, 7, 7, 7, 7, "PixiePixie");
 let reginavoce = new Queen("Regina Voce", 7, 7, 7, 7, 7, 7, 7, "ReginaVoce");
 let serenaM = new Queen("Serena Morena", 7, 7, 7, 7, 7, 7, 7, "SerenaMorena");
 let vermelha = new Queen("Vermelha Noir", 7, 7, 7, 7, 7, 7, 7, "VermelhaNoir");
-let drmx = [argennis, cristian, gala, kero, margaret, matraka, vallarta, pixiePixie, regina, serenaM, vermelha];
+let drmx = [argennis, cristian, gala, kero, margaret, matraka, vallarta, pixiePixie, reginavoce, serenaM, vermelha];
 
 //all possible queens:
 let allCustomQueens = [];
@@ -3287,7 +3287,7 @@ let allQueens = [
     madison, raga, rudy, regina, luna, memo, aviesc, huntyy, mista, iviza, wynter, stupidrag, yayoi,
     cpher, vera, iris, elektravander, georgiana, rebel, sirena, lisa, leexa, lupita, carrera, tiresias, aurora, paper,
     peke, fifi, liza, hidden, gretha, deseos, santa, light, isabella, huma, aisha,
-    argennis, cristian, gala, kero, matraka, vallarta, pixiePixie, regina, serenaM, vermelha,
+    argennis, cristian, gala, kero, matraka, vallarta, pixiePixie, reginavoce, serenaM, vermelha,
     daniel, marta, anime, alice, suki, peachy, elsiplay, enigmatica, medinilla, dyarita, soi, liv,
 	
 ].concat(allCustomQueens).sort((a, b) => a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()));
