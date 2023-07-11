@@ -286,7 +286,7 @@ function marketingChallenge() {
     queensPerformances();
     marketingChallengeCounter++;
     isDesignChallenge = false;
-    episodeChallenges.push("Mark");
+    episodeChallenges.push("Market");
 }
 class GirlGroup {
     generateDescription() {
@@ -334,7 +334,7 @@ function girlgroup() {
     queensPerformances();
     girlGroupCounter++;
     isDesignChallenge = false;
-    episodeChallenges.push("Group");
+    episodeChallenges.push("Groups");
 }
 class RunwayChallenge {
     generateDescription() {
